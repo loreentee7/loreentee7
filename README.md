@@ -53,7 +53,7 @@
 
 ## ⭐ Proyectos destacados
 
-- 🖥️ **[Windows XP Portfolio Template](https://github.com/tu-usuario/windows-xp-portfolio)**: Una plantilla de portafolio interactiva inspirada en Windows XP.
+- 🖥️ **[Windows XP Portfolio Template](https://github.com/loreentee7/Plantilla-de-portfailio)**: Una plantilla de portafolio interactiva inspirada en Windows XP.
 
 ---
 
