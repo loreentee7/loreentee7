@@ -58,7 +58,7 @@
 ---
 
 <h3>🎖️ GitHub Stats</h3>
-<p><img src="https://github-readme-stats.vercel.app/api?username=danimarin24&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=loreentee7&amp;show_icons=true" alt="GitHub Stats"></p>
 
 ## 🫂 Gracias por visitar mi perfil
 
