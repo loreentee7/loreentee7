@@ -57,6 +57,6 @@
 
 ---
 
-## 🌈 Gracias por visitar mi perfil
+## 🫂 Gracias por visitar mi perfil
 
 Si te gusta lo que ves, no dudes en dejar una ⭐ en mis proyectos o enviarme un mensaje. ¡Estoy emocionado por conectar contigo y aprender juntos! 😊
