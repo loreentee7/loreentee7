@@ -57,6 +57,7 @@
 
 - 🖥️ **[Windows XP Portfolio Template](https://github.com/loreentee7/Plantilla-de-portfailio)**: Una plantilla de portafolio interactiva inspirada en la estética de Windows XP.
 - 📁 **[PiMediaManager](https://github.com/loreentee7/PiMediaManager)**: Un gestor de archivos de fotos y videos para poder interactuar con ellas y usarlo en una RaspBerry.
+- 🎮 **[Pokkedle](https://github.com/loreentee7/Pokkedle)**: Un juego de pokemon inspirado en Wordle con pokedex.
 
 ---
 
