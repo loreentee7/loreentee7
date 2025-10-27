@@ -48,7 +48,7 @@
 ## 🌐 Conéctate conmigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/edgar-lorente/)
-- 📧 **Correo**: elorente03@gmail.com  
+- 📧 elorente03@gmail.com  
 - 🖥️ [Portfolio](https://loreentee.dev/)
 
 ---
