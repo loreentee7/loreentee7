@@ -183,11 +183,9 @@ Right now I'm focused on:
 
 ---
 
-# 📈 GitHub
+# 📈 GitHub Activity
 
-![Edgar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loreentee7&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loreentee7&layout=compact&hide_border=true&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=loreentee7&theme=transparent&hide_border=true)
 
 ---
 
